@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5fd1cae-3b92-4ab6-bffe-ab6b7c7f2566" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dNAenpXhdBokKU4hnNxQJqKnVK" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JetBrainAcademy/Simple Chatty Bot" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.11820328" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CoffeeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="machine.CoffeeMachine" />
+      <module name="Coffee_Machine-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="machine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoffeeMachine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5fd1cae-3b92-4ab6-bffe-ab6b7c7f2566" name="Default Changelist" comment="" />
+      <created>1592255274569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592255274569</updated>
+      <workItem from="1592255276195" duration="2207000" />
+      <workItem from="1592418389973" duration="904000" />
+      <workItem from="1593202899852" duration="4681000" />
+      <workItem from="1593452669615" duration="631000" />
+      <workItem from="1593464288900" duration="1248000" />
+      <workItem from="1593499864568" duration="278000" />
+      <workItem from="1593588596394" duration="597000" />
+      <workItem from="1593636092879" duration="2730000" />
+      <workItem from="1594488702097" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="382" width="800" height="677" key="#Project_Structure" timestamp="1593637048331">
+      <screen x="67" y="351" width="1299" height="741" />
+    </state>
+    <state x="311" y="382" width="800" height="677" key="#Project_Structure/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593637048331" />
+    <state x="110" y="123" width="424" height="484" key="FileChooserDialogImpl" timestamp="1594488769008">
+      <screen x="67" y="27" width="3603" height="997" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1592422294507" />
+    <state x="110" y="123" key="FileChooserDialogImpl/67.27.3603.997@67.27.3603.997" timestamp="1594488769008" />
+    <state x="499" y="478" width="424" height="484" key="FileChooserDialogImpl/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593453483157" />
+    <state width="1253" height="2" key="GridCell.Tab.0.bottom" timestamp="1593638823700">
+      <screen x="67" y="351" width="1299" height="741" />
+    </state>
+    <state width="1253" height="19" key="GridCell.Tab.0.bottom/0.324.1366.768/1366.0.1280.1024@0.324.1366.768" timestamp="1593207571256" />
+    <state width="1253" height="2" key="GridCell.Tab.0.bottom/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593638823700" />
+    <state width="1253" height="2" key="GridCell.Tab.0.center" timestamp="1593638823700">
+      <screen x="67" y="351" width="1299" height="741" />
+    </state>
+    <state width="1253" height="19" key="GridCell.Tab.0.center/0.324.1366.768/1366.0.1280.1024@0.324.1366.768" timestamp="1593207571256" />
+    <state width="1253" height="2" key="GridCell.Tab.0.center/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593638823700" />
+    <state width="1253" height="2" key="GridCell.Tab.0.left" timestamp="1593638823699">
+      <screen x="67" y="351" width="1299" height="741" />
+    </state>
+    <state width="1253" height="19" key="GridCell.Tab.0.left/0.324.1366.768/1366.0.1280.1024@0.324.1366.768" timestamp="1593207571256" />
+    <state width="1253" height="2" key="GridCell.Tab.0.left/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593638823699" />
+    <state width="1253" height="2" key="GridCell.Tab.0.right" timestamp="1593638823700">
+      <screen x="67" y="351" width="1299" height="741" />
+    </state>
+    <state width="1253" height="19" key="GridCell.Tab.0.right/0.324.1366.768/1366.0.1280.1024@0.324.1366.768" timestamp="1593207571256" />
+    <state width="1253" height="2" key="GridCell.Tab.0.right/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593638823700" />
+    <state x="-29" y="27" width="1289" height="741" key="new project wizard" timestamp="1592422275738">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="-29" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1592422275738" />
+    <state x="380" y="337" key="run.anything.popup" timestamp="1593465279360">
+      <screen x="67" y="351" width="1299" height="741" />
+    </state>
+    <state x="380" y="337" key="run.anything.popup/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593465279360" />
+  </component>
+</project>
