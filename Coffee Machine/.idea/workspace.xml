@@ -8,53 +8,10 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Action!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Action!/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Action!/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Action!/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Action!/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Action!/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Brush up your code/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Brush up your code/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Brush up your code/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Brush up your code/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Enough coffee for everyone/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Enough coffee for everyone/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Hello, coffee!/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Hello, coffee!/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/Machines have needs/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/Machines have needs/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/On a coffee loop/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/On a coffee loop/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/On a coffee loop/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/On a coffee loop/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coffee Machine/task/out/production/classes/machine/CoffeeMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Coffee Machine/task/out/production/classes/machine/CoffeeMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Account and its owner/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Account and its owner/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Alphabetical order/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Alphabetical order/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Book/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Book/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Boxes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Boxes/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Boxes/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Boxes/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Car/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Car/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Check a number is positive/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Check a number is positive/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Check a number is positive/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Check a number is positive/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Check if an array is sorted ascending/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Check if an array is sorted ascending/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Complex numbers (1)/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Complex numbers (1)/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Complex numbers/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Counter/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Counter/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Initializing an array of characters/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Initializing an array of characters/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Initializing an array of integers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Initializing an array of integers/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Inner boxes/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Inner boxes/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Patient needs a doctor/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Points on the 2D plane/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Points on the 2D plane/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Project constants and methods/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Project constants and methods/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Right Rotation/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Right Rotation/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Right Rotation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Right Rotation/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The longest ascending sequence/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The longest ascending sequence/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The longest ascending sequence/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The longest ascending sequence/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The maximum pairwise product/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The maximum pairwise product/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The maximum pairwise product/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The maximum pairwise product/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The sum of array elements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The sum of array elements/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Too many cats/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Too many cats/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Two numbers never occur next to each other/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Two numbers never occur next to each other/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Two numbers never occur next to each other/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Two numbers never occur next to each other/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Two numbers never occur next to each other/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Two numbers never occur next to each other/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +53,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.CoffeeMachine">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="CoffeeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="machine.CoffeeMachine" />
       <module name="Coffee_Machine-task_main" />
@@ -124,19 +81,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Problems-Check_if_an_array_is_sorted_ascending_main" />
+      <module name="Problems-The_star_figure_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Fill_the_matrix_by_numbers_main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.CoffeeMachine" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +139,7 @@
       <workItem from="1594490212065" duration="593000" />
       <workItem from="1594490829016" duration="9659000" />
       <workItem from="1597777481608" duration="1826000" />
-      <workItem from="1597779338854" duration="342000" />
+      <workItem from="1597779338854" duration="7148000" />
     </task>
     <servers />
   </component>
@@ -200,29 +165,29 @@
     <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1594500736889" />
     <state x="110" y="123" key="FileChooserDialogImpl/67.27.3603.997@67.27.3603.997" timestamp="1594488769008" />
     <state x="499" y="478" width="424" height="484" key="FileChooserDialogImpl/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593453483157" />
-    <state width="1253" height="211" key="GridCell.Tab.0.bottom" timestamp="1597779677931">
+    <state width="1253" height="179" key="GridCell.Tab.0.bottom" timestamp="1597786485424">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="19" key="GridCell.Tab.0.bottom/0.324.1366.768/1366.0.1280.1024@0.324.1366.768" timestamp="1593207571256" />
-    <state width="1253" height="211" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597779677931" />
+    <state width="1253" height="179" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597786485424" />
     <state width="1253" height="2" key="GridCell.Tab.0.bottom/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593638823700" />
-    <state width="1253" height="211" key="GridCell.Tab.0.center" timestamp="1597779677931">
+    <state width="1253" height="179" key="GridCell.Tab.0.center" timestamp="1597786485424">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="19" key="GridCell.Tab.0.center/0.324.1366.768/1366.0.1280.1024@0.324.1366.768" timestamp="1593207571256" />
-    <state width="1253" height="211" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597779677931" />
+    <state width="1253" height="179" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597786485424" />
     <state width="1253" height="2" key="GridCell.Tab.0.center/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593638823700" />
-    <state width="1253" height="211" key="GridCell.Tab.0.left" timestamp="1597779677931">
+    <state width="1253" height="179" key="GridCell.Tab.0.left" timestamp="1597786485424">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="19" key="GridCell.Tab.0.left/0.324.1366.768/1366.0.1280.1024@0.324.1366.768" timestamp="1593207571256" />
-    <state width="1253" height="211" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597779677931" />
+    <state width="1253" height="179" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597786485424" />
     <state width="1253" height="2" key="GridCell.Tab.0.left/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593638823699" />
-    <state width="1253" height="211" key="GridCell.Tab.0.right" timestamp="1597779677931">
+    <state width="1253" height="179" key="GridCell.Tab.0.right" timestamp="1597786485424">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="19" key="GridCell.Tab.0.right/0.324.1366.768/1366.0.1280.1024@0.324.1366.768" timestamp="1593207571256" />
-    <state width="1253" height="211" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597779677931" />
+    <state width="1253" height="179" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597786485424" />
     <state width="1253" height="2" key="GridCell.Tab.0.right/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593638823700" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1594490805019">
       <screen x="67" y="27" width="1299" height="741" />
@@ -232,9 +197,14 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1594500739450" />
-    <state x="380" y="337" key="run.anything.popup" timestamp="1593465279360">
-      <screen x="67" y="351" width="1299" height="741" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1597784534697">
+      <screen x="67" y="27" width="1299" height="741" />
     </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597784534697" />
     <state x="380" y="337" key="run.anything.popup/67.351.1299.741/1366.0.1280.1024@67.351.1299.741" timestamp="1593465279360" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597783536382">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741/1366.0.1280.1024/2646.0.1024.768@67.27.1299.741" timestamp="1597783536382" />
   </component>
 </project>
