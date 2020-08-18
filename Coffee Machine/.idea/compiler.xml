@@ -8,6 +8,8 @@
       <module name="Problems-Account_and_its_owner_test" target="11" />
       <module name="Problems-Alphabetical_order_main" target="11" />
       <module name="Problems-Alphabetical_order_test" target="11" />
+      <module name="Problems-Balance_management_main" target="11" />
+      <module name="Problems-Balance_management_test" target="11" />
       <module name="Problems-Book_main" target="11" />
       <module name="Problems-Book_test" target="11" />
       <module name="Problems-Boxes_main" target="11" />
@@ -24,6 +26,10 @@
       <module name="Problems-Complex_numbers_test" target="11" />
       <module name="Problems-Counter_main" target="11" />
       <module name="Problems-Counter_test" target="11" />
+      <module name="Problems-Currencies_main" target="11" />
+      <module name="Problems-Currencies_test" target="11" />
+      <module name="Problems-Danger_levels_main" target="11" />
+      <module name="Problems-Danger_levels_test" target="11" />
       <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
       <module name="Problems-Initializing_an_array_of_characters_test" target="11" />
       <module name="Problems-Initializing_an_array_of_integers_main" target="11" />
